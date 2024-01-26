@@ -36,4 +36,4 @@ const routerList= [
     },
     
 ]
-export const router = createBrowserRouter([...routerList])
+export const router = createBrowserRouter([...routerList], { basename: "/car_resale",})
