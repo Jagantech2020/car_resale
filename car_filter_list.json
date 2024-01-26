@@ -1,0 +1,69 @@
+[
+  {
+    "filtername": "location",
+    "label": "Location",
+    "type": "dropDown",
+    "value": [
+      "Bangalore",
+      "Chennai",
+      "Delhi",
+      "Mumbai",
+      "Hyderabad",
+      "Pune",
+      "Kolkatta"
+    ]
+  },
+  {
+    "filtername": "body_type",
+    "label": "BodyType",
+    "type": "dropDown",
+    "value": ["Hatchpack", "Sedan", "SUV"]
+  },
+  {
+    "filtername": "brand_name",
+    "label": "Brand Name",
+    "type": "radio",
+    "value": []
+  },
+  {
+    "filtername": "number_of_owers",
+    "label": "Owners",
+    "type": "radio",
+    "value": ["1st owner", "2nd owner", "3rd owner", "4th owner"]
+  },
+  {
+    "filtername": "price",
+    "label": "Budget",
+    "type": "button",
+    "value": [
+      {
+        "label": "less than 2L",
+        "value": 200000
+      },
+      {
+        "label": "less than 4L",
+        "value": 400000
+      },
+      {
+        "label": "less than 6L",
+        "value": 600000
+      },
+      {
+        "label": "less than 7L",
+        "value": 700000
+      }
+    ]
+  },
+  {
+    "filtername": "fuel_type",
+    "label": "Fuel Type",
+    "type": "radio",
+    "value": ["Petrol", "Diesel", "CNG"]
+  },
+  {
+    "filtername": "transmission",
+    "label": "Transmission",
+    "type": "radio",
+    "value": ["Automatic", "Manual"]
+  }
+]

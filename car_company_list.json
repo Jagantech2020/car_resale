@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Maruti Suzuki",
+        "imageName": "maruti_suzuki_logo.png"
+    },
+    {
+        "name": "Hyundai",
+        "imageName": "hyundai_logo.png"
+    },
+    {
+        "name": "Renault",
+        "imageName": "renault_logo.png"
+    },
+    {
+        "name": "Honda",
+        "imageName": "honda_logo.png"
+    },
+    {
+        "name": "Tata Motors",
+        "imageName": "tata_motors_logo.png"
+    },
+    {
+        "name": "Ford",
+        "imageName": "ford_logo.png"
+    },
+    {
+        "name": "Volkswagen",
+        "imageName": "volkswagen_logo.png"
+    },
+    {
+        "name": "Mahindra",
+        "imageName": "mahindra_logo.png"
+    },
+    {
+        "name": "Toyota",
+        "imageName": "toyota_logo.png"
+    },
+    {
+        "name": "BMW",
+        "imageName": "bmw_logo.png"
+    },
+    {
+        "name": "Benz",
+        "imageName": "benz_logo.png"
+    }
+    
+]
