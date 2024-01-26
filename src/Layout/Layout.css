@@ -1,0 +1,40 @@
+.layout_container header {
+    display: flex;
+    justify-content: space-between;
+    background: lemonchiffon;
+    align-items: center;
+}
+
+.layout_container header nav > ul {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.layout_container header nav > ul > li {
+   display: inline-block;
+   padding: 2rem;
+   font-size: 18px;
+}
+
+.layout_container header nav > ul > li > a {
+   color: black;
+   text-decoration: none;
+   padding: 2rem;
+ }
+
+
+ .layout_container header nav > ul > li > a:hover {
+    background: yellowgreen;
+    color: white;
+   
+ }
+
+ .layout_container header > div > a {
+    color: black;
+    text-decoration: none;
+    padding: 2rem;
+    font-size: 18px;
+    background: yellowgreen;
+    color: white;
+ }
